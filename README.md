@@ -54,12 +54,8 @@ conda activate MonteCarlo_book
 ```
 
 
-If you experience missing packages, layout issues, or unexpected errors,
-we recommend using the full environment file for complete reproducibility:
-
-
-> ⚠️  If you experience missing packages, layout issues, or unexpected errors,
-> we recommend using the full environment file for complete reproducibility:
+> ⚠️  If you experience missing packages, layout issues, unexpected errors, or if the results are not
+> correctly reproduced, we recommend using the full environment file for complete reproducibility:
 
 
 ```bash
@@ -79,19 +75,24 @@ Lectures_on_Monte_Carlo_Theory/
 ├── chapter_1/
 │   ├── ch1_2d_game_winning_prob.py
 │   ├── ch1_estimate_pi_quasirandom.py
-│   ├── ch1_simple_random_walk.py
+│   └── ch1_simple_random_walk.py
 │
 ├── chapter_2/
 │   ├── ch2_random_walk.py
-│   ├── ch2_prng_sets_A_B_C.py
+│   └── ch2_prng_sets_A_B_C.py
 ...
 ├── chapter_8/
 │   ├── ch2_aloha.py
 │   ├── ...
 │
+└── README.md
+└── README_docker.md
 └── requirements.txt
 └── environment.yml
-└── README.md
+└── environment_full.yml
+
+
+
 ```
 
 ## Running Scripts and Reproducing Results
@@ -144,4 +145,5 @@ In rare cases, if installing with Conda does not fully reproduce the expected re
 See [README_docker.md](README_docker.md) for full instructions.
 
 ## License
-This code is provided under the MIT License.
+This code is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
+
