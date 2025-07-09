@@ -149,3 +149,6 @@ This code is provided under the MIT License. See the [LICENSE](LICENSE) file for
 
 
 ![Repo views](https://komarev.com/ghpvc/?username=lorek&repo=MC_test1)
+
+
+![Views](https://komarev.com/ghpvc/?username=lorek&repo=MC_test1&label=Repo%20views)
