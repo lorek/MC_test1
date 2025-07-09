@@ -1,6 +1,39 @@
 # Lectures on Monte Carlo Theory
 
 
+
+|  Book title:;&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
+|--------------------|------------------------------------------------|
+| **Authors**       | Paweł Lorek and Tomasz Rolski                                 |
+| **Affiliation**   | University of Wrocław                                          |
+| &nbsp;  |  &nbsp;                                          |
+| **Publisher**     | Springer, 2025                                                 |
+| &nbsp;  |  &nbsp;                                          |
+| **Springer link** | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893) |
+| &nbsp;  |  &nbsp;                                          |
+| **Series**        | *Probability Theory and Stochastic Modelling*                 |
+| &nbsp;  |  &nbsp;                                          |
+| **ISBN**          | 978-3-032-01189-3                                              |
+
+
+
+ddddddddddddd
+
+
+|  Book title:;&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
+|--------------------|------------------------------------------------|
+| **Authors**       | Paweł Lorek and Tomasz Rolski                                 |
+| **Affiliation**   | University of Wrocław                                          |
+| **Publisher**     | Springer, 2025                                                 |
+| **Springer link** | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893) |
+| **Series**        | *Probability Theory and Stochastic Modelling*                 |
+| **ISBN**          | 978-3-032-01189-3                                              |
+
+
+
+
+
+
 |  Book title:       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
 |--------------------|------------------------------------------------|
 | **Authors**        | Paweł Lorek and Tomasz Rolski                 |
