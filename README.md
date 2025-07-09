@@ -5,7 +5,7 @@
 |  Book title&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
 |--------------------|------------------------------------------------|
 | **Authors**       | Paweł Lorek and Tomasz Rolski                                 |
-| **Affiliation**   | University of Wrocław                                          |
+| **Affiliation**   | University of Wrocław, Poland                                         |
 | **Publisher**     | Springer, 2025                                                 |
 | **Springer link** | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893) |
 | **Series**        | *Probability Theory and Stochastic Modelling*                 |
