@@ -148,7 +148,9 @@ See [README_docker.md](README_docker.md) for full instructions.
 This code is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-![Repo views](https://komarev.com/ghpvc/?username=lorek&repo=MC_test1)
+---
+
+---
 
 
 ![Views](https://komarev.com/ghpvc/?username=lorek&repo=MC_test1&label=Repo%20views)
