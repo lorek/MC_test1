@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ## Repository Structure
 ```
-book_code/
+Lectures_on_Monte_Carlo_Theory/
 ├── chapter_1/
 │   ├── ch1_2d_game_winning_prob.py
 │   ├── ch1_estimate_pi_quasirandom.py
