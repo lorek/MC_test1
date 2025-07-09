@@ -1,11 +1,10 @@
 # Lectures on Monte Carlo Theory
 
 
-
 |  Book title&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
 |--------------------|------------------------------------------------|
 | **Authors**       | Paweł Lorek and Tomasz Rolski                                 |
-| **Affiliation**   | University of Wrocław, Poland                                         |
+| **Affiliation**   | University of Wrocław, Poland                                          |
 | **Publisher**     | Springer, 2025                                                 |
 | **Springer link** | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893) |
 | **Series**        | *Probability Theory and Stochastic Modelling*                 |
@@ -14,12 +13,9 @@
 
 
 
-
-
-
 This repository contains Python scripts and code examples for the Monte Carlo simulations presented in the above book.
 
- 
+
 ## About the Code
 
 Most examples should run out-of-the-box, provided you are using Python 3.12. The numerical values and figures in the book can be reproduced directly from the scripts. All required packages are listed in `requirements.txt`.
@@ -96,41 +92,45 @@ book_code/
 
 ## Running Scripts and Reproducing Results
 
-To run a script, navigate to the corresponding chapter folder.
-For example, to run a script from Chapter 5:
+To run a script, navigate to the corresponding chapter directory. For example, in Chapter 5, run:
 
 ```bash
-chapter_5$ python ch5_strat_sampling_pi.py
+cd chapter_5
+python ch5_strat_sampling_pi.py
 ```
 
-
-When run without arguments, each script uses the same parameters and random seed as in the book, so it reproduces the reported results and figures.
+When run without arguments, each script uses the same parameters and  seed as in the book, so it reproduces the reported results and figures.
 
 The output is typically displayed on screen, and figures are also saved as `.pdf` files in a subdirectory called `results/`. This folder is created automatically if it does not exist.
 
-Most scripts support command-line arguments that allow you to explore different settings. To see the available options, run:
+Most scripts support command-line arguments that allow you to explore different settings.  To see the available options use flag `--help`, e.g., run:
 
 ```bash
-python ch1_monte_carlo.py --help
+python ch5_strat_sampling_pi.py --help
 ```
 
-**Example:** the following command runs the script `ch5_strat_sampling_pi.py` (which estimates $\pi$ using stratified sampling) with 500 replications, 4 strata, and a custom seed:
+You can override the default values using flags.
+
+**Example:** the following command estimates $\pi$ using stratified sampling with 500 replications, 4 strata, and a custom seed:
 
 ```bash
 python ch5_strat_sampling_pi.py --R 500 --m 4 --seed 54321
 ```
 
-You can also pass comma-separated lists of values, e.g.,
+Many scripts also accept **comma-separated lists of values**.  For example, the default invocation shown above:
+
 ```bash
 python ch5_strat_sampling_pi.py
 ```
 
-is equivalent to the following explicit call (these default parameters can also be seen using the `--help` option):
+is equivalent to the following:
 
 ```bash
 python ch5_strat_sampling_pi.py --R 200,10000 --Rpilot 100 --m 5,10,20 --results_path results --seed 31415
 ```
-which estimates $\pi$ several times: using 200 and 10000 replications, and 5, 10, or 20 strata.
+
+This command estimates $\pi$ several times: using 200 and 10000 replications, and 5, 10, or 20 strata.
+
 
 
 ##   Full reproducibility with Docker (Optional)
@@ -138,6 +138,6 @@ which estimates $\pi$ several times: using 200 and 10000 replications, and 5, 10
 In rare cases, if installing with Conda does not fully reproduce the expected results (e.g., due to subtle version differences or system dependencies), you can run all code examples inside a fully configured Docker container.
 
 See [README_docker.md](README_docker.md) for full instructions.
- 
+
 ## License
 This code is provided under the MIT License.
