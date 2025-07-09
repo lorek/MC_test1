@@ -73,12 +73,6 @@ conda activate MonteCarlo_book
 pip install -r requirements.txt
 ```
 
-## Running Examples
-To execute a script, use:
-```bash
-python ch1_monte_carlo.py
-```
-
 ## Repository Structure
 ```
 book_code/
@@ -102,13 +96,13 @@ book_code/
 
 ## Running Scripts and Reproducing Results
 
-To run a script, navigate to its folder and use:
+To run a script, navigate to the corresponding chapter folder.
+For example, to run a script from Chapter 5:
 
 ```bash
-python ch1_monte_carlo.py
+chapter_5$ python ch5_strat_sampling_pi.py
 ```
 
-This assumes you are inside the corresponding directory, such as `chapter_1/`.
 
 When run without arguments, each script uses the same parameters and random seed as in the book, so it reproduces the reported results and figures.
 
