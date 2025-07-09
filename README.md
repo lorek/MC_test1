@@ -53,15 +53,19 @@ conda env create -f environment.yml
 conda activate MonteCarlo_book
 ```
 
-Or to use the full version for maximum compatibility:
+
+If you experience missing packages, layout issues, or unexpected errors,
+we recommend using the full environment file for complete reproducibility:
+
+
+> ⚠️  If you experience missing packages, layout issues, or unexpected errors,
+> we recommend using the full environment file for complete reproducibility:
+
 
 ```bash
 conda env create -f environment_full.yml
 conda activate MonteCarlo_book
 ```
-
-> ⚠️ In rare cases, when you experience missing packages, layout issues, or unexpected errors,
-> we recommend using `environment_full.yml` to ensure complete reproducibility across systems.
 
 
 ### 2. Using pip
@@ -103,7 +107,7 @@ When run without arguments, each script uses the same parameters and  seed as in
 
 The output is typically displayed on screen, and figures are also saved as `.pdf` files in a subdirectory called `results/`. This folder is created automatically if it does not exist.
 
-Most scripts support command-line arguments that allow you to explore different settings.  To see the available options use flag `--help`, e.g., run:
+Most scripts support command-line arguments that allow you to explore different settings.  To see the available options use the `--help` flag, e.g., run:
 
 ```bash
 python ch5_strat_sampling_pi.py --help
