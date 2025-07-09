@@ -2,7 +2,7 @@
 
 
 
-|  Book title:;&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
+|  Book title&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
 |--------------------|------------------------------------------------|
 | **Authors**       | Paweł Lorek and Tomasz Rolski                                 |
 | **Affiliation**   | University of Wrocław                                          |
