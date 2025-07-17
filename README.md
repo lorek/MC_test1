@@ -28,7 +28,7 @@
 
 </td>
 <td>
-<img src="cover.png" alt="Book cover" width="200"/>
+<img src="book_cover.png" alt="Book cover" width="200"/>
 </td>
 </tr>
 </table>
