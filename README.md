@@ -13,6 +13,28 @@
 
 
 
+<table>
+<tr>
+<td>
+
+|  Book title&nbsp;&nbsp;&nbsp;&nbsp;       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
+|--------------------|------------------------------------------------|
+| **Authors**       | Paweł Lorek and Tomasz Rolski                                 |
+| **Affiliation**   | University of Wrocław, Poland                                          |
+| **Publisher**     | Springer, 2025                                                 |
+| **Springer link** | [link.springer.com/book/9783032011893](https://link.springer.com/book/9783032011893) |
+| **Series**        | *Probability Theory and Stochastic Modelling*                 |
+| **ISBN**          | 978-3-032-01189-3                                              |
+
+</td>
+<td>
+<img src="cover.png" alt="Book cover" width="200"/>
+</td>
+</tr>
+</table>
+  
+
+
 This repository contains Python scripts and code examples for the Monte Carlo simulations presented in the above book.
 
 
